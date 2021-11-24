@@ -1,0 +1,13 @@
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp3.1\ImageGallery.Services.deps.json
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp3.1\ImageGallery.Services.dll
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp3.1\ImageGallery.Services.pdb
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp3.1\ImageGallery.Data.dll
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp3.1\ImageGallery.Data.pdb
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.csproj.AssemblyReference.cache
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.AssemblyInfoInputs.cache
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.AssemblyInfo.cs
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.csproj.CoreCompileInputs.cache
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.dll
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.pdb
+C:\WorkBench\Solutions\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp3.1\ImageGallery.Services.csproj.CopyComplete

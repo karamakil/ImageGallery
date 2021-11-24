@@ -1,4 +1,6 @@
 using ImageGallery.Data.DAL;
+using ImageGallery.Data.Interface;
+using ImageGallery.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +30,8 @@ namespace ImageGallery
             services.AddDbContext<ImageGalleryDbContext>
                 (option => option.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddScoped<IImage, ImageService>();
+
             services.AddControllersWithViews();
         }
 
@@ -55,7 +59,7 @@ namespace ImageGallery
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=ImageGallery}/{action=Index}/{id?}");
             });
         }
     }

@@ -80,3 +80,9 @@ C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\ImageGa
 C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\ImageGallery.Data.pdb
 C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\WorkBench\Solutions\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\Razor\Views\ImageGallery\index.cshtml.g.cs
+C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\ImageGallery.Services.dll
+C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\ImageGallery.Services.pdb
+C:\WorkBench\Solutions\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\Razor\Views\ImageGallery\Detail.cshtml.g.cs
+C:\WorkBench\Solutions\ImageGallery\ImageGallery\obj\Debug\netcoreapp3.1\Razor\Views\Image\Upload.cshtml.g.cs
+C:\WorkBench\Solutions\ImageGallery\ImageGallery\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
